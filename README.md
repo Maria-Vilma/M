@@ -12,4 +12,4 @@ paludettomarcelo@gmail.com
 
 @marcelopaludetto
 
-![descrição do GIF](link GIF do Tenor)
+![](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif)
