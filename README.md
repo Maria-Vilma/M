@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Marcelo Paludetto
+Meu nome é M
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo 📫
 
-paludettomarcelo@gmail.com
+m@gmail.com
 
-@marcelopaludetto
+@m
 
 ![](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif)
